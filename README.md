@@ -33,12 +33,6 @@
 
 ---
 
-## 🧩 Cấu trúc thư mục
-📦 student_manager
-┣ 📜 run.cpp → Mã nguồn chính
-┣ 📜 students.txt → File lưu danh sách sinh viên
-┗ 📘 README.md → Mô tả dự án
-
 ## 💻 Cách chạy chương trình
 
 ### 🧩 Cách 1: Dùng Code::Blocks hoặc Dev-C++
