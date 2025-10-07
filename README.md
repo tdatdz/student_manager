@@ -63,6 +63,7 @@ Nhap ma sinh vien: 25004930
 Nhap ten sinh vien: Nguyen Thanh Dat
 Nhap diem: 10
 Da them sinh vien thanh cong!
+### 🧑‍💻 Tác giả
 | Thông tin                  | Mô tả                                                                                        |
 | -------------------------- | -------------------------------------------------------------------------------------------- |
 | 👤 **Tên**                 | Đạt Thành                                                                                    |
