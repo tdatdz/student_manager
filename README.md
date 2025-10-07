@@ -63,12 +63,4 @@ Nhap ma sinh vien: 25004930
 Nhap ten sinh vien: Nguyen Thanh Dat
 Nhap diem: 10
 Da them sinh vien thanh cong!
-### 🧑‍💻 Tác giả
-| Thông tin                  | Mô tả                                                                                        |
-| -------------------------- | -------------------------------------------------------------------------------------------- |
-| 👤 **Tên**                 | Đạt Thành                                                                                    |
-| 🎓 **Ngành học**           | Trí tuệ Nhân tạo Ứng dụng                                                                    |
-| 🏫 **Năm học**             | Sinh viên năm nhất                                                                           |
-| 📅 **Thời gian thực hiện** | Tháng 10/2025                                                                                |
-| 🌐 **GitHub**              | [github.com/tdatdz](https://github.com/tdatdz) *(thay link bằng GitHub của bạn)* |
 
