@@ -34,7 +34,10 @@
 ---
 
 ## 🧩 Cấu trúc thư mục
-
+📦 student-management-cpp
+┣ 📜 student_manager.cpp → Mã nguồn chính
+┣ 📜 students.txt → File lưu danh sách sinh viên
+┗ 📘 README.md → Mô tả dự án
 ---
 
 ## 💻 Cách chạy chương trình
@@ -56,9 +59,9 @@ g++ student_manager.cpp -o student
 5. Luu vao file
 0. Thoat
 Chon: 1
-Nhap ma sinh vien: 101
-Nhap ten sinh vien: Nguyen Van A
-Nhap diem: 8.5
+Nhap ma sinh vien: 25004930
+Nhap ten sinh vien: Nguyen Thanh Dat
+Nhap diem: 10
 Da them sinh vien thanh cong!
 | Thông tin                  | Mô tả                                                                                        |
 | -------------------------- | -------------------------------------------------------------------------------------------- |
@@ -66,5 +69,5 @@ Da them sinh vien thanh cong!
 | 🎓 **Ngành học**           | Trí tuệ Nhân tạo Ứng dụng                                                                    |
 | 🏫 **Năm học**             | Sinh viên năm nhất                                                                           |
 | 📅 **Thời gian thực hiện** | Tháng 10/2025                                                                                |
-| 🌐 **GitHub**              | [github.com/dat-thanh-ai](https://github.com/dat-thanh-ai) *(thay link bằng GitHub của bạn)* |
+| 🌐 **GitHub**              | [github.com/tdatdz](https://github.com/tdatdz) *(thay link bằng GitHub của bạn)* |
 
