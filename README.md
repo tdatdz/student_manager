@@ -38,7 +38,6 @@
 ┣ 📜 run.cpp → Mã nguồn chính
 ┣ 📜 students.txt → File lưu danh sách sinh viên
 ┗ 📘 README.md → Mô tả dự án
----
 
 ## 💻 Cách chạy chương trình
 
