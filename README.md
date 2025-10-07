@@ -37,7 +37,7 @@
 
 ### 🧩 Cách 1: Dùng Code::Blocks hoặc Dev-C++
 1. Mở IDE → New → Console Application → C++
-2. Copy toàn bộ nội dung file `student_manager.cpp`
+2. Copy toàn bộ nội dung file `run.cpp`
 3. Nhấn **F9** để biên dịch và chạy.
 
 ### ⚙️ Cách 2: Dùng terminal (Windows / Linux / macOS)
