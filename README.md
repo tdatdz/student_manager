@@ -34,8 +34,8 @@
 ---
 
 ## 🧩 Cấu trúc thư mục
-📦 student-management-cpp
-┣ 📜 student_manager.cpp → Mã nguồn chính
+📦 student_manager
+┣ 📜 run.cpp → Mã nguồn chính
 ┣ 📜 students.txt → File lưu danh sách sinh viên
 ┗ 📘 README.md → Mô tả dự án
 ---
@@ -49,8 +49,8 @@
 
 ### ⚙️ Cách 2: Dùng terminal (Windows / Linux / macOS)
 ```bash
-g++ student_manager.cpp -o student
-./student     # hoặc student.exe trên Windows
+g++ run.cpp -o run
+./run     # hoặc run.exe trên Windows
 ===== CHUONG TRINH QUAN LY SINH VIEN =====
 1. Them sinh vien
 2. Hien thi danh sach
