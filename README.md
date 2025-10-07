@@ -34,3 +34,37 @@
 ---
 
 ## 🧩 Cấu trúc thư mục
+
+---
+
+## 💻 Cách chạy chương trình
+
+### 🧩 Cách 1: Dùng Code::Blocks hoặc Dev-C++
+1. Mở IDE → New → Console Application → C++
+2. Copy toàn bộ nội dung file `student_manager.cpp`
+3. Nhấn **F9** để biên dịch và chạy.
+
+### ⚙️ Cách 2: Dùng terminal (Windows / Linux / macOS)
+```bash
+g++ student_manager.cpp -o student
+./student     # hoặc student.exe trên Windows
+===== CHUONG TRINH QUAN LY SINH VIEN =====
+1. Them sinh vien
+2. Hien thi danh sach
+3. Tim sinh vien theo ma
+4. Sap xep theo diem
+5. Luu vao file
+0. Thoat
+Chon: 1
+Nhap ma sinh vien: 101
+Nhap ten sinh vien: Nguyen Van A
+Nhap diem: 8.5
+Da them sinh vien thanh cong!
+| Thông tin                  | Mô tả                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------- |
+| 👤 **Tên**                 | Đạt Thành                                                                                    |
+| 🎓 **Ngành học**           | Trí tuệ Nhân tạo Ứng dụng                                                                    |
+| 🏫 **Năm học**             | Sinh viên năm nhất                                                                           |
+| 📅 **Thời gian thực hiện** | Tháng 10/2025                                                                                |
+| 🌐 **GitHub**              | [github.com/dat-thanh-ai](https://github.com/dat-thanh-ai) *(thay link bằng GitHub của bạn)* |
+
